@@ -1,4 +1,2 @@
-flask
-python-telegram-bot>=22.3
-openai
-gunicorn
+aiogram==2.25.1
+requests==2.32.3
